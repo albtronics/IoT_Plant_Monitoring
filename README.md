@@ -1,2 +1,2 @@
 # IoT_Plant_Monitoring
- " The Times When Hardware Meets Creativity! "
+```A Project to Monitor Plant's Health through IoT.```
